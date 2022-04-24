@@ -1,0 +1,116 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.h-color {
+    color: coral;
+}
+
+.h-box {
+    border-left: 5px solid;
+    line-height: 250%;
+    border-color: rgb(252, 42, 84);
+}
+
+.flex-decoration {
+    display: flex;
+
+}
+
+.width-half {
+    width: 75%;
+    padding-left: 10%;
+
+}
+
+.pic-padd {
+    padding-left: 15%;
+}
+
+.link-style {
+    text-decoration: none;
+    background-color: rgb(252, 42, 84);
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+a:hover {
+    color: black;
+}
+
+.font-position {
+    text-align: center;
+}
+
+.something {
+    color: coral;
+}
+
+#box-style {
+    margin-left: 5%;
+    margin: 5%;
+}
+
+#mission {
+    background-color: rgb(254, 221, 209);
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 30px;
+    width: 180%;
+}
+
+#vission {
+    background-color: rgb(192, 211, 246);
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 30px;
+    width: 180%;
+}
+
+#goals {
+    background-color: rgb(250, 245, 182);
+    margin-right: 5%;
+    padding: 10px;
+    border-radius: 30px;
+    width: 180%;
+}
+
+.develop {
+    margin-left: 10%;
+}
+
+.footer-bcg {
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.font-dsng {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-family: 'Ultra', serif;
+    color: rgb(252, 42, 84);
+}
+
+.prg-color {
+    color: deepskyblue;
+}
